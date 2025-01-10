@@ -1,2 +1,2 @@
-!#/usr/bin/env ruby
+#!/usr/bin/env ruby
 ^[a-zA-Z]
